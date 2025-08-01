@@ -3,14 +3,13 @@
 
 Este projeto é um **RPA (Robotic Process Automation)** desenvolvido com **Python + Playwright** para automatizar o processo de **login, extração, organização e envio de arquivos** do sistema **Webtran Bradesco**.
 
-A rotina está estruturada de forma modular, com foco em manutenibilidade, clareza e integração futura com o **Google Cloud Platform (GCP)**.
 
 ---
 
 ## 🚀 Funcionalidades
 
 - Login automático via autenticação embutida na URL
-- Extração de arquivos `.zip` de dois códigos distintos
+- Extração de arquivos `.zip` 
 - Organização e agrupamento de arquivos por código
 - Envio dos arquivos organizados para diretórios finais (Geral e Rotina)
 - Registro de logs com timestamp
@@ -35,37 +34,9 @@ AUTOBOTS/
 ├── utils.py                       # Funções auxiliares para logs, criação e limpeza de pastas
 │
 ├── requirements.txt               # Lista de dependências do projeto (Playwright, etc.)
-└── venv/                          # Ambiente virtual Python (não é versionado - incluído no .gitignore)
+└── venv/                         
 ```
 
----
-
-## ⚙️ Pré-requisitos
-
-- Python 3.9+
-- Google Chrome (ou Chromium)
-- [Playwright](https://playwright.dev/python/) (instalado via pip)
-
----
-
-## 📦 Instalação
-
-```bash
-# 1. Clone o repositório
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
-
-# 2. Crie o ambiente virtual
-python -m venv venv
-source venv/bin/activate  # Linux/macOS
-venv\Scripts\activate   # Windows
-
-# 3. Instale as dependências
-pip install -r requirements.txt
-
-# 4. Instale os browsers do Playwright
-playwright install
-```
 
 ---
 
@@ -98,25 +69,6 @@ A execução realiza os seguintes passos:
 - [x] RPA funcional com login e download
 - [x] Organização por código e envio para pastas locais
 - [ ] Integração com GCP (em andamento)
-- [ ] Interface gráfica (futuro)
 
 ---
 
-## 🔒 Segurança
-
-> ⚠️ **Atenção:** O arquivo `config.py` contém credenciais sensíveis.  
-> Recomenda-se movê-las para um arquivo `.env` e usar a biblioteca `python-dotenv` para produção.
-
----
-
-## 📄 Licença
-
-Este projeto está licenciado sob os termos da [MIT License](LICENSE).
-
----
-
-## 🙋‍♂️ Contato
-
-Desenvolvido por **[Seu Nome]**  
-📧 Email: seuemail@exemplo.com  
-🔗 GitHub: [@seu-usuario](https://github.com/seu-usuario)
