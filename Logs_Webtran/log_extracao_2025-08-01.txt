@@ -1,0 +1,30 @@
+🧼 Ambiente limpo e pastas recriadas.
+🔁 Extração iniciada para o login : TW06812
+❌ Erro inesperado: Page.goto: net::ERR_INVALID_AUTH_CREDENTIALS at https://TW06812:yy123yb@os390.bradescoseguros.com.br/suporte/OSdown.html
+Call log:
+  - navigating to "https://TW06812:yy123yb@os390.bradescoseguros.com.br/suporte/OSdown.html", waiting until "load"
+
+🧼 Ambiente limpo e pastas recriadas.
+🔁 Extração iniciada para o login : TW06812
+⬇️ Arquivos baixados para: TW06812
+✅ Extração concluída para o login: TW06812
+🗂️ Arquivos organizados na pasta local: TW06812
+📂 Arquivos Enviados para o SharePoint Geral
+📂 Arquivos Enviados para o SharePoint Rotina
+📌 Processo finalizado com sucesso em: 01/08/2025
+⏱️ Tempo total de execução: 00h 00min 12s
+🧼 Ambiente limpo e pastas recriadas.
+🔁 Extração iniciada para o login : TW06812
+❌ Erro inesperado: Page.goto: net::ERR_INVALID_AUTH_CREDENTIALS at https://TW06812:yy123yb@os390.bradescoseguros.com.br/suporte/OSdown.html
+Call log:
+  - navigating to "https://TW06812:yy123yb@os390.bradescoseguros.com.br/suporte/OSdown.html", waiting until "load"
+
+🧼 Ambiente limpo e pastas recriadas.
+🔁 Extração iniciada para o login : TW06812
+⬇️ Arquivos baixados para: TW06812
+✅ Extração concluída para o login: TW06812
+🗂️ Arquivos organizados na pasta local: TW06812
+📂 Arquivos Enviados para o SharePoint Geral
+📂 Arquivos Enviados para o SharePoint Rotina
+📌 Processo finalizado com sucesso em: 01/08/2025
+⏱️ Tempo total de execução: 00h 00min 15s

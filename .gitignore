@@ -1,0 +1,27 @@
+# Ignorar ambientes virtuais
+venv/
+ENV/
+env/
+.venv/
+
+# Ignorar cache e compilados do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+# Configs do VSCode
+.vscode/
+*.code-workspace
+
+# Arquivos temporários
+*.zip
+*.tmp
+
+# Ignorar arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar apenas a pasta Access_gcp dentro de settings
+settings/Access_gcp/
+

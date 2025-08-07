@@ -1,0 +1,11 @@
+🧼 Ambiente limpo e pastas recriadas.
+🔁 Extração iniciada para o login : TW06812
+❌ Erro inesperado: name 'SENHA_FIXO' is not defined
+🧼 Ambiente limpo e pastas recriadas.
+🔁 Extração iniciada para o login : TW06812
+⬇️ Arquivos baixados para: TW06812
+🗂️ Arquivos organizados na pasta local: TW06812
+📂 Arquivos Enviados para o SharePoint Geral
+📂 Arquivos Enviados para o SharePoint Rotina
+📌 Processo finalizado com sucesso em: 30/07/2025
+⏱️ Tempo total de execução: 00h 00min 12s
